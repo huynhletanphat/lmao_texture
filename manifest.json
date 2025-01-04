@@ -1,0 +1,17 @@
+{
+    "forrmat_version ": "1.21.51",
+    "header": {
+        "name": "Lmao texture",
+        "description": "a simple texture for Minecraft",
+        "uuid": "699463d0-c4ee-43d0-bbd2-f67476984e73",
+        "version": [1, 0, 0],
+        "min_engine_version": [1, 21, 40]
+    },
+    "moudles": [
+        {
+            "type": "resuorces",
+            "uuid": "dff59169-e2ae-4053-978c-98cd68e23fb0",
+            "version": [1, 0, 0]
+        }
+    ]
+}
